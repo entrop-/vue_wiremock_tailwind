@@ -1,0 +1,79 @@
+{
+  "numberOfItems": 1,
+  "salesDocumentType": "INVOICE",
+  "totalItemsPrice": {
+    "net": 55.36,
+    "gross": 44.97,
+    "tax": 5.61
+  },
+  "totalCartPrice": {
+    "net": 55.36,
+    "gross": 44.97,
+    "tax": 18
+  },
+  "payment": {
+    "id": 51,
+    "name": "PKO BP S.A.",
+    "description": "Płacę z iPKO",
+    "type": "PAY_CART",
+    "imageUrl": "http://service30.net/images/pay_images/n-pkointeligo.png",
+    "order": 101,
+    "price": {
+      "net": 55.36,
+      "gross": 44.97,
+      "tax": 6
+    }
+  },
+  "delivery": {
+    "addressId": 1332,
+    "date": "2020-07-28",
+    "courier": {
+      "id": 1,
+      "name": "DPD",
+      "prices": {
+        "priceType": "ONLINE",
+        "price": {
+          "net": 9.36,
+          "gross": 20.97,
+          "tax": 5
+        },
+        "attributes": [
+          {
+            "aaa": "a1a1a1",
+            "bbb": "b2b2b2",
+            "ccc": "c3c3c3"
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "id": 76307,
+      "quantity": 5,
+      "totalPrice": {
+        "net": 11.36,
+        "gross": 11.97,
+        "tax": 1.61
+      }
+    },
+    {
+      "id": 76306,
+      "quantity": 3,
+      "totalPrice": {
+        "net": 22.36,
+        "gross": 22.97,
+        "tax": 2.61
+      }
+    },
+    {
+      "id": 76302,
+      "quantity": 19,
+      "totalPrice": {
+        "net": 33.36,
+        "gross": 33.97,
+        "tax": 3.61
+      }
+    }
+  ]
+}
