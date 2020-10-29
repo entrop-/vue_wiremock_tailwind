@@ -1,5 +1,7 @@
 # demo1
 
+Bailerplate with vue composition api, wiremock and tailwind
+
 ## Project setup
 ```
 npm install
